@@ -1,0 +1,212 @@
+Cardiovascular Diseases
+Acute Coronary Syndrome
+■ Essentials of Diagnosis
+• Classified as ST-segment elevation (Q wave) myocardial infarction (MI), non–ST-segment elevation (non-Q wave) MI, or unstable angina
+• Prolonged (> 30 minutes) chest pain, associated with shortness of breath, nausea, left arm or neck pain, and diaphoresis; can be
+painless in diabetics
+• S4 common; S3, mitral insufficiency on occasion
+• Cardiogenic shock, ventricular arrhythmias may complicate
+• Unrelenting chest pain may mean ongoing jeopardized myocardium
+■ Differential Diagnosis
+• Stable angina; aortic dissection; pulmonary emboli
+• Tietze’s syndrome (costochondritis)
+• Cervical or thoracic radiculopathy, including pre-eruptive zoster
+• Esophageal spasm or reflux; cholecystitis
+• Pericarditis; myocarditis; Takotsubo’s (stress-induced) cardiomy-
+opathy
+• Pneumococcal pneumonia; pneumothorax
+■ Treatment
+• Monitoring, oxygen, aspirin, oral beta-blockers, and heparin if not contraindicated; consider clopidogrel
+• Reperfusion by thrombolysis early or percutaneous coronary inter- vention (PCI) in selected patients with either ST-segment eleva- tion or new left bundle-branch block on ECG
+• Glycoprotein IIb/IIIa inhibitors considered for ST-segment ele- vation MI in patients undergoing PCI
+• Nitroglycerin and morphine for recurrent ischemic pain; also useful for relieving pulmonary congestion, decreasing sympa- thetic tone, and reducing blood pressure
+• Angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers, and aldosterone blockers such as eplerenone improve ventricular remodeling after infarcts
+■ Pearl
+Proceed rapidly to reperfusion in ST-segment elevation MI as time
+equals muscle.
+Reference
+Kumar A, Cannon CP. Acute coronary syndromes: diagnosis and management, part II. Mayo Clin Proc 2009;84:1021. [PMID: 19880693]
+   1
+2
+Current Essentials of Medicine
+  1
+Acute Pericarditis
+Essentials of Diagnosis
+• Inflammation of the pericardium due to viral infection, drugs, recent myocardial infarction, autoimmune syndromes, renal fail- ure, cardiac surgery, trauma, or neoplasm
+• Common symptoms include pleuritic chest pain radiating to the shoulder (trapezius ridge) and dyspnea; pain improves with sit- ting up and expiration
+• Examination may reveal fever, tachycardia, and an intermittent friction rub; cardiac tamponade may occur in any patient
+• Electrocardiography usually shows PR depression, diffuse concave ST-segment elevation followed by T-wave inversions; no recip- rocal changes are seen
+• Echocardiography may reveal pericardial effusion Differential Diagnosis
+• Acute myocardial infarction
+• Aortic dissection
+• Pulmonary embolism
+• Pneumothorax
+• Pneumonia
+• Cholecystitis and pancreatitis
+Treatment
+• Aspirin or nonsteroidal anti-inflammatory agents such as ibupro- fen or indomethacin to relieve symptoms; colchicine has been shown to reduce recurrence; rarely, steroids for recurrent cases
+• Hospitalization for patients with symptoms suggestive of signif- icant effusions, cardiac tamponade, elevated biomarkers, or recent trauma or surgery
+Pearl
+■
+■
+■
+■
+Patients with pericarditis often present with chest pain that is worse when lying flat.
+Reference
+Imazio M, Cecchi E, Demichelis B, et al. Myopericarditis versus viral or idio- pathic acute pericarditis. Heart 2008;94:498. [PMID: 17575329]
+
+Chapter 1 Cardiovascular Diseases 3 Acute Rheumatic Fever
+■ Essentials of Diagnosis
+• A systemic immune process complicating group A beta-hemolytic streptococcal pharyngitis
+• Usually affects children between the ages of 5 and 15; rare after 25
+• Occurs 1–5 weeks after throat infection
+• Diagnosis based on Jones’ criteria (two major or one major and
+two minor) and confirmation of recent streptococcal infection
+• Major criteria: Erythema marginatum, migratory polyarthritis, subcutaneous nodules, carditis, and Sydenham’s chorea; the latter
+is the most specific, least sensitive
+• Minor criteria: Fever, arthralgias, elevated erythrocyte sedimen-
+tation rate, elevated C-reactive protein, PR prolongation on ECG, and history of pharyngitis
+■ Differential Diagnosis
+• Juvenile or adult rheumatoid arthritis
+• Endocarditis
+• Osteomyelitis
+• Systemic lupus erythematosus
+• Lyme disease
+• Disseminated gonococcal infection
+■ Treatment
+• Bed rest until vital signs and ECG become normal
+• Salicylates and nonsteroidal anti-inflammatory drugs reduce fever and joint complaints but do not affect the natural course of the dis-
+ease; rarely, corticosteroids may be used
+• If streptococcal infection is still present, penicillin is indicated
+• Prevention of recurrent streptococcal pharyngitis until 18 years old
+(a monthly injection of benzathine penicillin is most commonly used)
+■ Pearl
+Inappropriate tachycardia in a febrile child with a recent sore throat sug-
+gests this diagnosis.
+Reference
+van Bemmel JM, Delgado V, Holman ER, et al. No increased risk of valvular heart disease in adult poststreptococcal reactive arthritis. Arthritis Rheum 2009;60:987. [PMID: 19333942]
+1
+  
+4
+Current Essentials of Medicine
+  1
+Angina Pectoris
+Essentials of Diagnosis
+• Generally caused by atherosclerotic coronary artery disease and severe coronary obstruction; cigarette smoking, diabetes mellitus, hypertension, hypercholesterolemia, and family history are estab- lished risk factors
+• Stable angina characterized by pressure-like episodic precordial chest discomfort, precipitated by exertion or stress, relieved by rest or nitrates; unstable angina can occur with less exertion or at rest
+• Stable angina is predictable in initiation and termination; unstable angina is not
+• S4, S3, mitral murmur, paradoxically split S2 may occur transiently with pain
+• Electrocardiography usually normal between episodes (or may show evidence of old infarction); electrocardiography with pain may show evidence of ischemia, classically ST depression
+• Diagnosis from history and stress tests; confirmed by coronary arteriography
+Differential Diagnosis
+• Other coronary syndromes (myocardial infarction, vasospasm)
+• Tietze’s syndrome (costochondritis)
+• Intercostal neuropathy, especially caused by herpes zoster
+• Cervical or thoracic radiculopathy, including pre-eruptive zoster
+• Esophageal spasm or reflux disease; cholecystitis
+• Pneumothorax; pulmonary embolism; pneumonia Treatment
+• Address risk factors; sublingual nitroglycerin for episodes
+• Ongoing treatment includes aspirin, long-acting nitrates, beta-
+blockers, and calcium channel blockers
+• Angioplasty with stenting considered in patients with anatomically
+suitable stenoses who remain symptomatic on medical therapy
+• Bypass grafting for patients with refractory angina on medical therapy, three-vessel disease (or two-vessel disease with proximal left anterior descending artery disease) and decreased left ven-
+tricular function, or left main coronary artery disease
+Pearl
+■
+■
+■
+■
+Many patients with angina will not say they are having pain; they will deny it but say they have discomfort, heartburn, or pressure.
+Reference
+Poole-Wilson PA, Vokó Z, Kirwan BA, de Brouwer S, Dunselman PH, Lubsen J; ACTION investigators. Clinical course of isolated stable angina due to coronary heart disease. Eur Heart J 2007;28:1928. [PMID: 17562665]
+
+Chapter 1 Cardiovascular Diseases 5 Aortic Coarctation
+■ Essentials of Diagnosis
+• Elevated blood pressure in the aortic arch and its branches with reduced blood pressure distal to the left subclavian artery
+• Lower extremity claudication or leg weakness with exertion in young adults is characteristic
+• Systolic blood pressure is higher in the arms than in the legs, but diastolic pressure is similar compared with radial
+• Femoral pulses delayed and decreased, with pulsatile collaterals in the intercostal areas; a harsh, late systolic murmur may be heard in the back; an aortic ejection murmur suggests concomi- tant bicuspid aortic valve
+• Electrocardiography with left ventricular hypertrophy; chest x-ray may show rib notching inferiorly due to collaterals
+• Transesophageal echo with Doppler or MRI is diagnostic; angiog- raphy confirms gradient across the coarctation
+■ Differential Diagnosis
+• Essential hypertension
+• Renal artery stenosis
+• Renal parenchymal disease
+• Pheochromocytoma
+• Mineralocorticoid excess
+• Oral contraceptive use
+• Cushing’s syndrome
+■ Treatment
+• Surgery is the mainstay of therapy; balloon angioplasty in selected patients
+• Twenty-five percent of patients remain hypertensive after surgery ■ Pearl
+Intermittent claudication in a young person with no vascular disease should suggest this problem; listen to the back for the characteristic murmur.
+Reference
+Tomar M, Radhakrishanan S. Coarctation of aorta: intervention from neonates to adult life. Indian Heart J 2008;60(suppl D):D22. [PMID: 19845083]
+1
+  
+6
+Current Essentials of Medicine
+  1
+Aortic Dissection
+Essentials of Diagnosis
+• Most patients between age 50 and 70; risks include hypertension, Marfan’s syndrome, bicuspid aortic valve, coarctation of the aorta, and pregnancy
+• Type A involves the ascending aorta or arch; type B does not
+• Sudden onset of chest pain with interscapular radiation in at-risk
+patient
+• Unequal blood pressures in upper extremities, new diastolic
+murmur of aortic insufficiency occasionally seen in type A
+• Chest x-ray nearly always abnormal; ECG unimpressive unless
+coronary artery compromised
+• CT, transesophageal echocardiography, MRI, or aortography usu-
+ally diagnostic
+Differential Diagnosis
+• Acute myocardial infarction
+• Angina pectoris
+• Acute pericarditis
+• Pneumothorax
+• Pulmonary embolism
+• Boerhaave’s syndrome
+Treatment
+• Nitroprusside and beta-blockers to lower systolic blood pressure to approximately 100 mm Hg, pulse to 60/min
+• Emergent surgery for type A dissection; medical therapy for type B is reasonable, with surgery or percutaneous intra-aortic stenting reserved for high-risk patients
+Pearl
+■
+■
+■
+■
+The pain of dissection starts abruptly; that of ischemic heart disease increases to maximum over several minutes.
+Reference
+Tran TP, Khoynezhad A. Current management of type B aortic dissection. Vasc Health Risk Manag 2009;5:53. [PMID: 19436678]
+
+Chapter 1 Cardiovascular Diseases 7 Aortic Regurgitation
+■ Essentials of Diagnosis
+• Causes include congenital bicuspid valve, endocarditis, rheumatic heart disease, Marfan’s syndrome, aortic dissection, ankylosing spondylitis, reactive arthritis, and syphilis
+• Acute aortic regurgitation: Abrupt onset of pulmonary edema
+• Chronic aortic regurgitation: Asymptomatic until middle age,
+when symptoms of left heart failure develop insidiously
+• Soft, high-pitched, decrescendo holodiastolic murmur in chronic aortic regurgitation; occasionally, an accompanying apical low- pitched diastolic rumble (Austin Flint murmur) in nonrheumatic patients; in acute aortic regurgitation, the diastolic murmur can be
+short (or not even heard) and harsh
+• Acute aortic regurgitation: Reduced S1 and an S3; rales
+• Chronic aortic regurgitation: Reduced S1, wide pulse pressure, water-
+hammer pulse, subungual capillary pulsations (Quincke’s sign), rapid rise and fall of pulse (Corrigan’s pulse), and a diastolic murmur over a partially compressed femoral artery (Duroziez’s sign)
+• ECG shows left ventricular hypertrophy
+• Echo Doppler confirms diagnosis, estimates severity
+■ Differential Diagnosis
+• Pulmonary hypertension with Graham Steell murmur
+• Mitral, or rarely, tricuspid stenosis
+• Left ventricular failure due to other cause
+• Dock’s murmur of left anterior descending artery stenosis
+■ Treatment
+• Vasodilators (eg, nifedipine and ACE inhibitors) do not delay the progression to valve replacement in patients with mild to moder- ate aortic regurgitation
+• In chronic aortic regurgitation, surgery reserved for patients with symptoms or ejection function < 50% on echocardiography
+• Acute regurgitation caused by aortic dissection or endocarditis requires surgical replacement of the valve
+■ Pearl
+The Hodgkin-Key murmur of aortic regurgitation is harsh and raspy,
+caused by leaflet eventration typical of luetic aortopathy.
+Reference
+Kamath AR, Varadarajan P, Turk R, Sampat U, Patel R, Khandhar S, Pai RG. Survival in patients with severe aortic regurgitation and severe left ventricu- lar dysfunction is improved by aortic valve replacement. Circulation 2009; 120(suppl):S134. [PMID: 19752358]
+1
+  
+8
+Current Essentials of Medicine
