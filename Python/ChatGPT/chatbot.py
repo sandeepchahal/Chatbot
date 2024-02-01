@@ -28,11 +28,11 @@ default_message = {
     "content": (
         "You are an assistant in a Apollo Hospital. "
         "Answer the questions precisel by following below rules: \n"
-        "1. Evaluate the question, and if it doesn't pertain to subjects such as medicine, viruses,health, diseases,doctors, patients or hospitals, respond with 'NAAA'. \n"
+        "1. Evaluate the question, and if it doesn't pertain to subjects such as medicine, viruses, health, diseases, doctors, patients or hospitals, say'NAAA'. \n"
         "2. Only answer to valid questions. \n"
         "3. Do not justify your answers. \n"
         "4. Respond appropriately to greetings. \n"+
-        "5. Response appropriately to user introductions"
+        "5. Response appropriately to user introductions\n"
     )
 }
 
@@ -46,13 +46,13 @@ default_context_message = {
 }
 
 embedding=MyEmbedding()
-context_message,api_message_context = [],[]
+context_message,api_message_context, user_history = [],[],[]
 
 context_message.append(default_message)
 context_message.append(default_context_message)
 api_message_context.append(default_message)
     
-OPEN_API_KEY = "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"
+OPEN_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPEN_API_KEY)
 
 def main():
@@ -77,7 +77,6 @@ def search_response_from_embedding(user_input):
     embeddings_array = np.array(list(context_df['embeddings']))
     question_embedding = client.embeddings.create(input=user_input, model='text-embedding-ada-002').data[0].embedding
 
-    # Create and fit a NearestNeighbors model
     nn_model = NearestNeighbors(n_neighbors=5, metric='cosine')
     nn_model.fit(embeddings_array)
 
@@ -119,13 +118,13 @@ def document_answer(question, history):
         
         context = search_response_from_embedding(question)
         final_context_reduced = reduce_context_size_if_needed(context)
-        final_context = context_message # it will always keep the copy of default context along with context created from file
+        final_context = context_message.copy() # it will always keep the copy of default context along with context created from file
         if(len(history)>0):
             reduce_history_if_needed(history)
-            history_converted = convert_into_messages(history)
-            final_context.extend(history_converted)
+            final_context.extend(history)
             
         final_context.append({"role":"user", "content": f"Context: {final_context_reduced}\n\n---\n\nQuestion: {question}"})
+        
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=final_context,
@@ -137,11 +136,8 @@ def document_answer(question, history):
         )
         return response.choices[0].message.content
     except Exception as e:
-        print('Error in Document',e)
-        if hasattr(e, 'response') and e.response is not None:
-            json_error = e.response.json()
-            return json_error.get('error', {}).get('message', 'Unknown Error Message') # return the exact error message but general error can be returned
-        return "An error has occurred while processing the request" 
+        print('Error In Document Response \n',e)
+        return "error" 
 
 def reduce_history_if_needed(history_context,max_tokens = 1500):
     total_tokens = 0
@@ -149,8 +145,8 @@ def reduce_history_if_needed(history_context,max_tokens = 1500):
         return history_context
     
     for message in history_context:
-        total_tokens+= len(tokenizer.encode(message[0]))
-        total_tokens+= len(tokenizer.encode(message[1]))
+        total_tokens+= len(tokenizer.encode(message['content']))
+        total_tokens+= len(tokenizer.encode(message['content']))
     print('history token-count before--------------',total_tokens)
     
     if(total_tokens>max_tokens):
@@ -164,15 +160,15 @@ def reduce_history_if_needed(history_context,max_tokens = 1500):
             
     print('history token-count After --------------',total_tokens)
     
-def reduce_context_size_if_needed(context):
+def reduce_context_size_if_needed(context, max_tokens=1500):
     total_tokens = 0
     for message in context:
         total_tokens+= len(tokenizer.encode(message))
     
     print('token-count before',total_tokens,"\n")
     
-    if(total_tokens>prompt_max_token):
-        while(total_tokens> prompt_max_token):
+    if(total_tokens>max_tokens):
+        while(total_tokens> max_tokens):
             context.pop(0) # Remove the oldest message if the total tokens exceed the limit
             count =0
             for message in context:
@@ -189,27 +185,22 @@ def reduce_context_size_if_needed(context):
 def find_answer_from_history(history,question):
     similarity_threshold= 0.6
    # Extract all user messages from the history
-    user_messages = [message[0] for message in history if message[0] is not None]
+    user_messages = [message["content"] for message in history if message.get("role") == "user" and message.get("content") is not None]
 
-    # Add the current user question to the listx
+    # Add the current user question to the list
     user_messages.append(question)
 
-
-    # Create TF-IDF vectors for the user questions
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform(user_messages)
-
 
     # Calculate cosine similarities between the current question and all previous questions
     similarities = cosine_similarity(tfidf_matrix[-1], tfidf_matrix[:-1])
 
-
     # Find the index of the most similar question
     most_similar_index = similarities.argmax()
-
     # Check if the similarity is above the threshold
     if similarities[0, most_similar_index] >= similarity_threshold:
-        return history[most_similar_index][1]
+        return history[most_similar_index+1]['content'] # return the answer which would index+1 
     else:
         return 'notfound'
 
@@ -229,16 +220,14 @@ def history_answer(question, history):
         answer_message = {"role": "assistant", "content": f"{history_answer}"}
         
         reduce_history_if_needed(history)
-        history_converted = convert_into_messages(history)
-        conversion_context= api_message_context # always add the context along with conversion history context that we save in the file
-        conversion_context.extend(history_converted)
+        conversion_context= api_message_context.copy() # always add the context along with conversion history context that we save in the file
+        conversion_context.extend(history)
     
         conversion_context.append(user_message)
         conversion_context.append(answer_message)
         
         conversion_context.append({"role":"user", "content": f"{question}"})
 
-        
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=conversion_context,
@@ -250,36 +239,32 @@ def history_answer(question, history):
         )
         return response.choices[0].message.content
     except Exception as e:
-        print('Error in History',e)
-        if hasattr(e, 'response') and e.response is not None:
-            json_error = e.response.json()
-            return json_error.get('error', {}).get('message', 'Unknown Error Message') # return the exact error message but general error can be returned
-        return "An error has occurred while processing the request" 
+        print('Error In History Response \n',e)
+        return "error" 
 
-def convert_into_messages(conversion_history):
-    final_conversion = []
-    for message in conversion_history:
-        userMessage = {"role": "user", "content": f"{message[0]}"}
-        answer = {"role": "assistant", "content": f"{message[1]}"}
-        final_conversion.append(userMessage)
-        final_conversion.append(answer)
-    
-    return final_conversion
+def add_conversation(question,answer,history):
+    userMessage = {"role": "user", "content": f"{question}"}
+    answer = {"role": "assistant", "content": f"{answer}"}
+
+    history.append(userMessage)
+    history.append(answer)
 
 def answer_question(question, history):
     try:
-        history_ans= history_answer(history=history, question=question)
+        history_ans= history_answer(history=user_history, question=question)
         
         print('Cache: -',history_ans)
-    
+        if(history_ans == "error"):
+            return "An error has occurred while processing the request"  
         if(history_ans !="no-history"):
             return history_ans
         
-        reduce_history_if_needed(history)
-        
-        document_ans = document_answer(question=question, history=history)
+        document_ans = document_answer(question=question, history=user_history)
         print('Document response -'+document_ans+"\n")
-        
+
+        if(document_ans == "error"):
+            return "An error has occurred while processing the request" 
+         
         answer =''
         if(document_ans!="NAAA" and document_ans != '' and document_ans !="NF"):
             answer= document_ans
@@ -287,12 +272,11 @@ def answer_question(question, history):
             return not_applicable_response
         else:
             # look for the answer from cloud
-            print('seaching on cloud')
-            reduce_history_if_needed(history)
-            history_converted = convert_into_messages(history)
-            conversion_history=api_message_context
-            if(len(history_converted)>0):
-                conversion_history.extend(history_converted)
+            print('Searching on cloud')
+            reduce_history_if_needed(user_history)
+            conversion_history=api_message_context.copy()
+            if(len(user_history)>0):
+                conversion_history.extend(user_history)
                 
             user_message = {"role": "user", "content": f"{question}"}
             conversion_history.append(user_message)
@@ -312,16 +296,17 @@ def answer_question(question, history):
             return f"{not_applicable_response}"
         elif(answer == "NF"):
             return f"Couldn't find the relevant answer"
+        # save the correct response to history
+        add_conversation(question=question,answer=answer,history= user_history)
         return answer
     except Exception as e:
-        print('Error in Main',e)
-        if hasattr(e, 'response') and e.response is not None:
-            json_error = e.response.json()
-            return json_error.get('error', {}).get('message', 'Unknown Error Message') # return the exact error message but general error can be returned
+        print(e)
         return "An error has occurred while processing the request" 
 
 if __name__ == "__main__":
     main()
+    
+
 
 
 

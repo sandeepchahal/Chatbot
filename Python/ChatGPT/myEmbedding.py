@@ -7,7 +7,7 @@ import tiktoken
 tokenizer = tiktoken.get_encoding("cl100k_base")
 pd.options.mode.copy_on_write = True
 
-OPEN_API_KEY = "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"
+OPEN_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(
     api_key= OPEN_API_KEY
 )
