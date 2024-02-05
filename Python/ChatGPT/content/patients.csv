@@ -1,0 +1,999 @@
+Id,Name,age,gender,address,county,state,city,description,date
+2de771bf-befb-4d42-944f-d8a9c5242678,Adelaida985 Kertzmann286,49,F,186 Murray Park,Suffolk County,Massachusetts,Winthrop,Chronic sinusitis (disorder),2019-09-19
+2de771bf-befb-4d42-944f-d8a9c5242678,Adelaida985 Kertzmann286,49,F,186 Murray Park,Suffolk County,Massachusetts,Winthrop,Prediabetes,2019-09-19
+2de771bf-befb-4d42-944f-d8a9c5242678,Adelaida985 Kertzmann286,49,F,186 Murray Park,Suffolk County,Massachusetts,Winthrop,Stroke,2019-09-19
+2de771bf-befb-4d42-944f-d8a9c5242678,Adelaida985 Kertzmann286,49,F,186 Murray Park,Suffolk County,Massachusetts,Winthrop,Anemia (disorder),2019-09-19
+2de771bf-befb-4d42-944f-d8a9c5242678,Adelaida985 Kertzmann286,49,F,186 Murray Park,Suffolk County,Massachusetts,Winthrop,Viral sinusitis (disorder),2019-09-19
+cf73a172-f375-4305-bfc8-ea8b00f158af,Benita195 Monahan736,12,F,996 Balistreri Parade Apt 65,Essex County,Massachusetts,Andover,Childhood asthma,2019-07-10
+cf73a172-f375-4305-bfc8-ea8b00f158af,Benita195 Monahan736,12,F,996 Balistreri Parade Apt 65,Essex County,Massachusetts,Andover,Childhood asthma,2019-09-11
+cf73a172-f375-4305-bfc8-ea8b00f158af,Benita195 Monahan736,12,F,996 Balistreri Parade Apt 65,Essex County,Massachusetts,Andover,Childhood asthma,2019-09-11
+cf73a172-f375-4305-bfc8-ea8b00f158af,Benita195 Monahan736,12,F,996 Balistreri Parade Apt 65,Essex County,Massachusetts,Andover,Childhood asthma,2019-09-11
+cf73a172-f375-4305-bfc8-ea8b00f158af,Benita195 Monahan736,12,F,996 Balistreri Parade Apt 65,Essex County,Massachusetts,Andover,Acute bronchitis (disorder),2019-07-10
+cf73a172-f375-4305-bfc8-ea8b00f158af,Benita195 Monahan736,12,F,996 Balistreri Parade Apt 65,Essex County,Massachusetts,Andover,Acute bronchitis (disorder),2019-09-11
+cf73a172-f375-4305-bfc8-ea8b00f158af,Benita195 Monahan736,12,F,996 Balistreri Parade Apt 65,Essex County,Massachusetts,Andover,Acute bronchitis (disorder),2019-09-11
+cf73a172-f375-4305-bfc8-ea8b00f158af,Benita195 Monahan736,12,F,996 Balistreri Parade Apt 65,Essex County,Massachusetts,Andover,Acute bronchitis (disorder),2019-09-11
+b057a08c-5cdd-436a-9096-cde13047fce9,Demarcus108 Bauch723,84,M,875 Berge Bay Suite 61,Barnstable County,Massachusetts,Orleans,Pulmonary emphysema (disorder),1976-01-17
+b057a08c-5cdd-436a-9096-cde13047fce9,Demarcus108 Bauch723,84,M,875 Berge Bay Suite 61,Barnstable County,Massachusetts,Orleans,Laceration of hand,1976-01-17
+b057a08c-5cdd-436a-9096-cde13047fce9,Demarcus108 Bauch723,84,M,875 Berge Bay Suite 61,Barnstable County,Massachusetts,Orleans,Viral sinusitis (disorder),1976-01-17
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Suspected COVID-19,2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Suspected COVID-19,2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Cough (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Cough (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Joint pain (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Joint pain (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Muscle pain (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Muscle pain (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Fatigue (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Fatigue (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Fever (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Fever (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,COVID-19,2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,COVID-19,2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Loss of taste (finding),2020-01-25
+173851ea-df68-4263-9942-ffe10f0a0975,Lenny728 Hermann103,16,M,134 Fisher Avenue Apt 54,Norfolk County,Massachusetts,Weymouth,Loss of taste (finding),2020-01-25
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Suspected COVID-19,2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Chronic intractable migraine without aura,2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Prediabetes,2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Cough (finding),2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Drug overdose,2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Hyperlipidemia,2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Hypertension,2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Chronic pain,2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Impacted molars,2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Pneumonia (disorder),2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Sputum finding (finding),2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Anemia (disorder),2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Respiratory distress (finding),2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Headache (finding),2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Fever (finding),2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,Hypoxemia (disorder),2019-11-10
+4d11efa6-14b1-4f18-924e-df991591ba3a,Alva958 Herman763,69,M,765 Mills Spur Apt 67,Essex County,Massachusetts,Lynn,COVID-19,2019-11-10
+b6572fb2-eb6d-49fe-b48e-113787a4c250,Danny396 Turner526,27,M,924 D'Amore Skyway Apt 43,Barnstable County,Massachusetts,Falmouth,COVID-19,2020-04-18
+b6572fb2-eb6d-49fe-b48e-113787a4c250,Danny396 Turner526,27,M,924 D'Amore Skyway Apt 43,Barnstable County,Massachusetts,Falmouth,Suspected COVID-19,2020-04-18
+b6572fb2-eb6d-49fe-b48e-113787a4c250,Danny396 Turner526,27,M,924 D'Amore Skyway Apt 43,Barnstable County,Massachusetts,Falmouth,Cough (finding),2020-04-18
+b6572fb2-eb6d-49fe-b48e-113787a4c250,Danny396 Turner526,27,M,924 D'Amore Skyway Apt 43,Barnstable County,Massachusetts,Falmouth,Drug overdose,2020-04-18
+b6572fb2-eb6d-49fe-b48e-113787a4c250,Danny396 Turner526,27,M,924 D'Amore Skyway Apt 43,Barnstable County,Massachusetts,Falmouth,Hypertension,2020-04-18
+b6572fb2-eb6d-49fe-b48e-113787a4c250,Danny396 Turner526,27,M,924 D'Amore Skyway Apt 43,Barnstable County,Massachusetts,Falmouth,Prediabetes,2020-04-18
+b6572fb2-eb6d-49fe-b48e-113787a4c250,Danny396 Turner526,27,M,924 D'Amore Skyway Apt 43,Barnstable County,Massachusetts,Falmouth,Anemia (disorder),2020-04-18
+b6572fb2-eb6d-49fe-b48e-113787a4c250,Danny396 Turner526,27,M,924 D'Amore Skyway Apt 43,Barnstable County,Massachusetts,Falmouth,Fever (finding),2020-04-18
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,COVID-19,2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Suspected COVID-19,2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Loss of taste (finding),2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Cough (finding),2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Wheezing (finding),2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Hypertension,2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Osteoporosis (disorder),2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Prediabetes,2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Polyp of colon,2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Tubal pregnancy,2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Body mass index 30+ - obesity (finding),2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Osteoarthritis of knee,2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Miscarriage in first trimester,2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Dyspnea (finding),2019-09-26
+bfa07971-92d4-4977-8578-1d4bd32cf587,Georgann131 McKenzie376,61,F,379 Huel Mall Unit 99,Worcester County,Massachusetts,Fitchburg,Fever (finding),2019-09-26
+1e9c0b1f-fa9e-4e33-b7d3-0b2f937e25d6,Linh535 Sauer652,13,F,214 Toy Approach,Essex County,Massachusetts,Lawrence,Suspected COVID-19,2019-07-06
+1e9c0b1f-fa9e-4e33-b7d3-0b2f937e25d6,Linh535 Sauer652,13,F,214 Toy Approach,Essex County,Massachusetts,Lawrence,Cough (finding),2019-07-06
+1e9c0b1f-fa9e-4e33-b7d3-0b2f937e25d6,Linh535 Sauer652,13,F,214 Toy Approach,Essex County,Massachusetts,Lawrence,Fatigue (finding),2019-07-06
+1e9c0b1f-fa9e-4e33-b7d3-0b2f937e25d6,Linh535 Sauer652,13,F,214 Toy Approach,Essex County,Massachusetts,Lawrence,Loss of taste (finding),2019-07-06
+bf08dfb6-8f30-4076-a483-4998a5cb7af2,Lucia634 Melgar516,48,F,830 Dickinson Avenue,Middlesex County,Massachusetts,Waltham,Body mass index 30+ - obesity (finding),2019-11-09
+bf08dfb6-8f30-4076-a483-4998a5cb7af2,Lucia634 Melgar516,48,F,830 Dickinson Avenue,Middlesex County,Massachusetts,Waltham,Acute viral pharyngitis (disorder),2019-11-09
+bf08dfb6-8f30-4076-a483-4998a5cb7af2,Lucia634 Melgar516,48,F,830 Dickinson Avenue,Middlesex County,Massachusetts,Waltham,Malignant neoplasm of breast (disorder),2019-11-09
+bf08dfb6-8f30-4076-a483-4998a5cb7af2,Lucia634 Melgar516,48,F,830 Dickinson Avenue,Middlesex County,Massachusetts,Waltham,Acute bronchitis (disorder),2019-11-09
+2866eb61-4fbc-44f0-8d95-1a0982d6517e,Adolph80 Schmeler639,53,M,475 Deckow Rue,Worcester County,Massachusetts,Leominster,Coronary Heart Disease,2014-12-13
+2866eb61-4fbc-44f0-8d95-1a0982d6517e,Adolph80 Schmeler639,53,M,475 Deckow Rue,Worcester County,Massachusetts,Leominster,Hypertension,2014-12-13
+2866eb61-4fbc-44f0-8d95-1a0982d6517e,Adolph80 Schmeler639,53,M,475 Deckow Rue,Worcester County,Massachusetts,Leominster,Body mass index 30+ - obesity (finding),2014-12-13
+2866eb61-4fbc-44f0-8d95-1a0982d6517e,Adolph80 Schmeler639,53,M,475 Deckow Rue,Worcester County,Massachusetts,Leominster,Stroke,2014-12-13
+2866eb61-4fbc-44f0-8d95-1a0982d6517e,Adolph80 Schmeler639,53,M,475 Deckow Rue,Worcester County,Massachusetts,Leominster,Myocardial Infarction,2014-12-13
+2866eb61-4fbc-44f0-8d95-1a0982d6517e,Adolph80 Schmeler639,53,M,475 Deckow Rue,Worcester County,Massachusetts,Leominster,History of myocardial infarction (situation),2014-12-13
+91d86613-378e-4ec1-bfc2-35dcb850fec1,Penney623 Wiegand701,95,F,920 Heaney Manor,Berkshire County,Massachusetts,Adams,Chronic congestive heart failure (disorder),1984-09-06
+91d86613-378e-4ec1-bfc2-35dcb850fec1,Penney623 Wiegand701,95,F,920 Heaney Manor,Berkshire County,Massachusetts,Adams,Body mass index 30+ - obesity (finding),1984-09-06
+91d86613-378e-4ec1-bfc2-35dcb850fec1,Penney623 Wiegand701,95,F,920 Heaney Manor,Berkshire County,Massachusetts,Adams,Stroke,1984-09-06
+91d86613-378e-4ec1-bfc2-35dcb850fec1,Penney623 Wiegand701,95,F,920 Heaney Manor,Berkshire County,Massachusetts,Adams,Miscarriage in first trimester,1984-09-06
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Suspected COVID-19,2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Suspected COVID-19,2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Prediabetes,2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Prediabetes,2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Cough (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Cough (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Wheezing (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Wheezing (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Pneumonia (disorder),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Pneumonia (disorder),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Vomiting symptom (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Vomiting symptom (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Dyspnea (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Dyspnea (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Anemia (disorder),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Anemia (disorder),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Respiratory distress (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Respiratory distress (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Headache (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Headache (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Fever (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Fever (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Hypoxemia (disorder),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Hypoxemia (disorder),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Nausea (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,Nausea (finding),2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,COVID-19,2019-10-10
+16da90de-74ac-44d8-be37-494af1b7d1c7,Nelson403 Cassin499,50,M,628 Johns Run,Essex County,Massachusetts,Peabody,COVID-19,2019-10-10
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Suspected COVID-19,2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Neuropathy due to type 2 diabetes mellitus (disorder),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Chronic sinusitis (disorder),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Diabetes,2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Cough (finding),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Hyperlipidemia,2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Hyperglycemia (disorder),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Body mass index 30+ - obesity (finding),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Metabolic syndrome X (disorder),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Anemia (disorder),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Hypertriglyceridemia (disorder),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Fever (finding),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Loss of taste (finding),2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,COVID-19,2019-11-25
+0193adec-2f4b-41c5-961c-0e41e511abaa,Freeman822 Hoeger474,71,M,894 Terry Bypass,Barnstable County,Massachusetts,Barnstable,Prediabetes,2019-11-25
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Suspected COVID-19,2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Acute deep venous thrombosis (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Chronic sinusitis (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Cough (finding),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Prediabetes,2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Joint pain (finding),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Acute respiratory failure (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Acute respiratory distress syndrome (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Nasal congestion (finding),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Polyp of colon,2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Muscle pain (finding),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Septic shock (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Fatigue (finding),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Body mass index 30+ - obesity (finding),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Pneumonia (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Anemia (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Respiratory distress (finding),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Fever (finding),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Hypoxemia (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,Sepsis caused by virus (disorder),2019-09-22
+668fb811-3103-48e5-8869-64e1831bbae2,Leland44 Bayer639,76,M,957 Mayert Park Apt 91,Norfolk County,Massachusetts,Quincy,COVID-19,2019-09-22
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Cough (finding),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Cough (finding),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Fracture of forearm,2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Fracture of forearm,2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Acute viral pharyngitis (disorder),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Acute viral pharyngitis (disorder),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Sputum finding (finding),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Sputum finding (finding),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Fever (finding),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,Fever (finding),2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,COVID-19,2019-07-29
+3f69bfca-9643-4ac1-b332-777df6ce70eb,Nick779 Larkin917,14,M,944 Feeney Mall,Bristol County,Massachusetts,Taunton,COVID-19,2019-07-29
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Suspected COVID-19,2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Chronic intractable migraine without aura,2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Acute deep venous thrombosis (disorder),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Chronic sinusitis (disorder),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Cough (finding),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Coronary Heart Disease,2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Wheezing (finding),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Fatigue (finding),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Chronic congestive heart failure (disorder),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Pneumonia (disorder),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Dyspnea (finding),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Anemia (disorder),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Respiratory distress (finding),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Fever (finding),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Hypoxemia (disorder),2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,Perennial allergic rhinitis,2019-07-10
+36a82440-b605-426d-8d6b-0cf077a9eecc,Eloy929 Roberts511,76,M,763 Graham Rapid,Essex County,Massachusetts,Lynn,COVID-19,2019-07-10
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,COVID-19,2020-01-17
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,COVID-19,2020-02-21
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-01-17
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-02-21
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2020-01-17
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2020-02-21
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Loss of taste (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Cough (finding),2020-01-17
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Cough (finding),2020-02-21
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Cough (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Cough (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Cough (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Cough (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Cough (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Joint pain (finding),2020-01-17
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Joint pain (finding),2020-02-21
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Joint pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Joint pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Joint pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Joint pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Joint pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Muscle pain (finding),2020-01-17
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Muscle pain (finding),2020-02-21
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Muscle pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Muscle pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Muscle pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Muscle pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Muscle pain (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Sore throat symptom (finding),2020-01-17
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Sore throat symptom (finding),2020-02-21
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Sore throat symptom (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Sore throat symptom (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Sore throat symptom (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Sore throat symptom (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Sore throat symptom (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Fever (finding),2020-01-17
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Fever (finding),2020-02-21
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-24
+d7f3290f-cffe-4296-ab77-c16dfe439e08,Alvin56 Jerde200,0,M,202 Murphy Bay Unit 86,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-24
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Chronic intractable migraine without aura,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Coronary Heart Disease,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Drug overdose,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Hypertension,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Polyp of colon,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Chronic pain,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Prediabetes,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Chronic congestive heart failure (disorder),2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Acute viral pharyngitis (disorder),2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Impacted molars,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Osteoarthritis of hip,2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Anemia (disorder),2011-11-29
+fb1ba626-5854-4d15-941c-1104d9221ab1,Colin861 Hegmann834,82,M,995 Jacobi Skyway,Suffolk County,Massachusetts,Boston,Recurrent rectal polyp,2011-11-29
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Suspected COVID-19,2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Loss of taste (finding),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Chronic intractable migraine without aura,2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Cough (finding),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Prediabetes,2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Wheezing (finding),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Chronic pain,2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Fatigue (finding),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Impacted molars,2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Sputum finding (finding),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Dyspnea (finding),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Sore throat symptom (finding),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Anemia (disorder),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,Fever (finding),2020-01-28
+5d3a5a61-0b37-4f96-926f-1df91457c6ae,Courtney281 Waters156,19,M,272 Carroll Harbor Unit 16,Middlesex County,Massachusetts,Lowell,COVID-19,2020-01-28
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Suspected COVID-19,2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Suspected COVID-19,2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Cough (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Cough (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Fatigue (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Fatigue (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Body mass index 30+ - obesity (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Body mass index 30+ - obesity (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Childhood asthma,2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Childhood asthma,2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Headache (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Headache (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Fever (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Fever (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,COVID-19,2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,COVID-19,2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Loss of taste (finding),2019-11-19
+1756f3ad-5f66-45e0-9959-20dd9e3b55be,Danette111 Weimann465,16,F,1087 Hansen Burg,Middlesex County,Massachusetts,Tyngsborough,Loss of taste (finding),2019-11-19
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Diabetes,2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Diabetes,2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Prediabetes,2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Prediabetes,2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Hyperglycemia (disorder),2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Hyperglycemia (disorder),2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Metabolic syndrome X (disorder),2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Metabolic syndrome X (disorder),2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Anemia (disorder),2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Anemia (disorder),2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Hypertriglyceridemia (disorder),2019-09-05
+49eb7ec6-e65c-4349-99d9-c35659cced55,Florencio463 Sporer811,41,M,142 Kreiger Alley,Barnstable County,Massachusetts,Falmouth,Hypertriglyceridemia (disorder),2019-09-05
+c5866271-6a30-43dd-9b46-e7ca5a10d709,Chassidy418 Kassulke119,98,F,964 Carroll Byway Apt 78,Worcester County,Massachusetts,Leominster,Atrial Fibrillation,2018-05-08
+c5866271-6a30-43dd-9b46-e7ca5a10d709,Chassidy418 Kassulke119,98,F,964 Carroll Byway Apt 78,Worcester County,Massachusetts,Leominster,Pulmonary emphysema (disorder),2018-05-08
+c5866271-6a30-43dd-9b46-e7ca5a10d709,Chassidy418 Kassulke119,98,F,964 Carroll Byway Apt 78,Worcester County,Massachusetts,Leominster,Body mass index 30+ - obesity (finding),2018-05-08
+c5866271-6a30-43dd-9b46-e7ca5a10d709,Chassidy418 Kassulke119,98,F,964 Carroll Byway Apt 78,Worcester County,Massachusetts,Leominster,Miscarriage in first trimester,2018-05-08
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,COVID-19,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,COVID-19,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,COVID-19,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Suspected COVID-19,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Suspected COVID-19,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Suspected COVID-19,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Loss of taste (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Loss of taste (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Loss of taste (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Chronic sinusitis (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Chronic sinusitis (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Chronic sinusitis (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Cough (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Cough (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Cough (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Prediabetes,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Prediabetes,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Prediabetes,2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Pneumonia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Pneumonia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Pneumonia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Diarrhea symptom (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Diarrhea symptom (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Diarrhea symptom (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Anemia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Anemia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Anemia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Respiratory distress (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Respiratory distress (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Respiratory distress (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Fever (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Fever (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Fever (finding),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Hypoxemia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Hypoxemia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Hypoxemia (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Acute pulmonary embolism (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Acute pulmonary embolism (disorder),2020-01-01
+d1c686a3-45fd-4584-97ac-f7138586d870,Janene3 Schmidt332,51,F,193 Ratke Key Unit 53,Hampshire County,Massachusetts,Huntington,Acute pulmonary embolism (disorder),2020-01-01
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Suspected COVID-19,2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Loss of taste (finding),2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Chronic sinusitis (disorder),2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Body mass index 30+ - obesity (finding),2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Localized  primary osteoarthritis of the hand,2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Pneumonia (disorder),2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Respiratory distress (finding),2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Hypoxemia (disorder),2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,Acute pulmonary embolism (disorder),2020-01-17
+65e952d4-41eb-4d33-b879-0082bee86f17,Darwin703 Miller503,56,M,137 Koepp Trafficway,Bristol County,Massachusetts,Easton,COVID-19,2020-01-17
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,COVID-19,2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,COVID-19,2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Suspected COVID-19,2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Suspected COVID-19,2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Cough (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Cough (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Hypertension,2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Hypertension,2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Fatigue (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Fatigue (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Body mass index 30+ - obesity (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Body mass index 30+ - obesity (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Pneumonia (disorder),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Pneumonia (disorder),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Respiratory distress (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Respiratory distress (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Fever (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Fever (finding),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Hypoxemia (disorder),2020-02-13
+a41ebd7d-083a-4192-bb12-cfbf3d5d4176,Garry927 Koch169,62,M,172 Considine Wall Unit 97,Plymouth County,Massachusetts,Pembroke,Hypoxemia (disorder),2020-02-13
+a50e3352-0474-41ef-8974-ecd4059953bd,Vincenza112 Parker433,84,F,1078 Gutmann Brook Suite 41,Hampden County,Massachusetts,Springfield,Chronic sinusitis (disorder),2019-09-13
+a50e3352-0474-41ef-8974-ecd4059953bd,Vincenza112 Parker433,84,F,1078 Gutmann Brook Suite 41,Hampden County,Massachusetts,Springfield,Prediabetes,2019-09-13
+a50e3352-0474-41ef-8974-ecd4059953bd,Vincenza112 Parker433,84,F,1078 Gutmann Brook Suite 41,Hampden County,Massachusetts,Springfield,Osteoporosis (disorder),2019-09-13
+a50e3352-0474-41ef-8974-ecd4059953bd,Vincenza112 Parker433,84,F,1078 Gutmann Brook Suite 41,Hampden County,Massachusetts,Springfield,Body mass index 30+ - obesity (finding),2019-09-13
+a50e3352-0474-41ef-8974-ecd4059953bd,Vincenza112 Parker433,84,F,1078 Gutmann Brook Suite 41,Hampden County,Massachusetts,Springfield,Osteoarthritis of hip,2019-09-13
+a50e3352-0474-41ef-8974-ecd4059953bd,Vincenza112 Parker433,84,F,1078 Gutmann Brook Suite 41,Hampden County,Massachusetts,Springfield,Miscarriage in first trimester,2019-09-13
+a50e3352-0474-41ef-8974-ecd4059953bd,Vincenza112 Parker433,84,F,1078 Gutmann Brook Suite 41,Hampden County,Massachusetts,Springfield,Anemia (disorder),2019-09-13
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Suspected COVID-19,2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Suspected COVID-19,2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Cough (finding),2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Cough (finding),2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Childhood asthma,2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Childhood asthma,2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Sputum finding (finding),2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Sputum finding (finding),2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Fever (finding),2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Fever (finding),2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Perennial allergic rhinitis,2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,Perennial allergic rhinitis,2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,COVID-19,2019-09-03
+217ebae3-f12a-4aca-8317-485af9ca3bef,Elsa29 Hudson301,14,F,675 Romaguera Walk Suite 75,Essex County,Massachusetts,Haverhill,COVID-19,2019-09-03
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,COVID-19,2019-10-23
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,COVID-19,2020-04-22
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,Suspected COVID-19,2019-10-23
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,Suspected COVID-19,2020-04-22
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,Loss of taste (finding),2019-10-23
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,Loss of taste (finding),2020-04-22
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,Fatigue (finding),2019-10-23
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,Fatigue (finding),2020-04-22
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,Fever (finding),2019-10-23
+9c19699e-efe0-4cec-9ddb-2ba42f665805,Ying817 Dach178,3,F,378 Hudson Trace Suite 58,Plymouth County,Massachusetts,Brockton,Fever (finding),2020-04-22
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Suspected COVID-19,2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Cough (finding),2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Hyperlipidemia,2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Polyp of colon,2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Miscarriage in first trimester,2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Body mass index 30+ - obesity (finding),2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Sore throat symptom (finding),2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Anemia (disorder),2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Fever (finding),2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Recurrent rectal polyp,2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,Loss of taste (finding),2019-07-06
+0314b99e-7ed7-47b7-bfd6-a3ef705f6406,Rossie247 Kemmer137,79,F,1055 Barrows Harbor Unit 21,Middlesex County,Massachusetts,Newton,COVID-19,2019-07-06
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,COVID-19,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,COVID-19,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Suspected COVID-19,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Suspected COVID-19,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Chronic sinusitis (disorder),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Chronic sinusitis (disorder),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Diabetes,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Diabetes,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Cough (finding),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Cough (finding),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Wheezing (finding),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Wheezing (finding),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Hypertension,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Hypertension,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Appendicitis,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Appendicitis,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Prediabetes,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Prediabetes,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Diabetic renal disease (disorder),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Diabetic renal disease (disorder),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Acute viral pharyngitis (disorder),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Acute viral pharyngitis (disorder),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Metabolic syndrome X (disorder),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Metabolic syndrome X (disorder),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Dyspnea (finding),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Dyspnea (finding),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Miscarriage in first trimester,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Miscarriage in first trimester,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Brain damage - traumatic,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Brain damage - traumatic,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Hypertriglyceridemia (disorder),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Hypertriglyceridemia (disorder),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Fever (finding),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Fever (finding),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Headache (finding),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Headache (finding),2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,History of appendectomy,2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,History of appendectomy,2020-04-29
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Chronic kidney disease stage 1 (disorder),2019-12-25
+f1f2a194-6db6-4c00-8653-36515b16ff39,Lucinda68 Cummings51,65,F,353 Bradtke Viaduct,Norfolk County,Massachusetts,Quincy,Chronic kidney disease stage 1 (disorder),2020-04-29
+03e161af-f3af-41e4-872e-360e7aa7b1dd,Sergio619 Kovacek682,72,M,933 Wilkinson Grove Apt 89,Middlesex County,Massachusetts,Somerville,Prediabetes,2007-11-15
+03e161af-f3af-41e4-872e-360e7aa7b1dd,Sergio619 Kovacek682,72,M,933 Wilkinson Grove Apt 89,Middlesex County,Massachusetts,Somerville,Chronic sinusitis (disorder),2007-11-15
+03e161af-f3af-41e4-872e-360e7aa7b1dd,Sergio619 Kovacek682,72,M,933 Wilkinson Grove Apt 89,Middlesex County,Massachusetts,Somerville,Hypertension,2007-11-15
+03e161af-f3af-41e4-872e-360e7aa7b1dd,Sergio619 Kovacek682,72,M,933 Wilkinson Grove Apt 89,Middlesex County,Massachusetts,Somerville,Chronic congestive heart failure (disorder),2007-11-15
+4e696bff-1eb1-4260-98cc-b2be277a95f1,Nancy265 Hand679,9,F,356 Rodriguez Village,Worcester County,Massachusetts,Millbury,Suspected COVID-19,2019-07-19
+4e696bff-1eb1-4260-98cc-b2be277a95f1,Nancy265 Hand679,9,F,356 Rodriguez Village,Worcester County,Massachusetts,Millbury,Loss of taste (finding),2019-07-19
+4e696bff-1eb1-4260-98cc-b2be277a95f1,Nancy265 Hand679,9,F,356 Rodriguez Village,Worcester County,Massachusetts,Millbury,Viral sinusitis (disorder),2019-07-19
+4e696bff-1eb1-4260-98cc-b2be277a95f1,Nancy265 Hand679,9,F,356 Rodriguez Village,Worcester County,Massachusetts,Millbury,COVID-19,2019-07-19
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,COVID-19,2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Suspected COVID-19,2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Cough (finding),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Joint pain (finding),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Acute respiratory failure (disorder),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Prediabetes,2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Muscle pain (finding),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Pneumonia (disorder),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Sputum finding (finding),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Anemia (disorder),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Respiratory distress (finding),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Fever (finding),2019-12-27
+bf107581-17c3-4174-8b8f-fc440ef5d01c,Harold594 Walsh511,48,F,569 Murphy Terrace,Worcester County,Massachusetts,Clinton,Hypoxemia (disorder),2019-12-27
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Suspected COVID-19,2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Chronic sinusitis (disorder),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Cough (finding),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Hyperlipidemia,2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Wheezing (finding),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Joint pain (finding),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Acute respiratory failure (disorder),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Polyp of colon,2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Muscle pain (finding),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Body mass index 30+ - obesity (finding),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Pneumonia (disorder),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Dyspnea (finding),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Anemia (disorder),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Respiratory distress (finding),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Injury of tendon of the rotator cuff of shoulder,2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Fever (finding),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Hypoxemia (disorder),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Alzheimer's disease (disorder),2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Recurrent rectal polyp,2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,COVID-19,2020-04-05
+0a04a1d8-d7f5-454e-831c-842a8b0a772b,Ramon749 Rice937,75,M,304 Ward Bypass Suite 80,Suffolk County,Massachusetts,Winthrop,Loss of taste (finding),2020-04-05
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Suspected COVID-19,2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Loss of taste (finding),2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Streptococcal sore throat (disorder),2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Cough (finding),2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Hyperlipidemia,2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Osteoporosis (disorder),2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Body mass index 30+ - obesity (finding),2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Alzheimer's disease (disorder),2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,Viral sinusitis (disorder),2019-12-02
+51fe9924-ee23-4755-8d03-e72dca2811ad,Florine959 Emard19,84,F,755 Reichert Crossroad Unit 95,Norfolk County,Massachusetts,Randolph,COVID-19,2019-12-02
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Suspected COVID-19,2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Loss of taste (finding),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Chronic intractable migraine without aura,2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Acute deep venous thrombosis (disorder),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Cough (finding),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Acute respiratory failure (disorder),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Body mass index 30+ - obesity (finding),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Pneumonia (disorder),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Malignant neoplasm of breast (disorder),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Sore throat symptom (finding),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Respiratory distress (finding),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Fever (finding),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Headache (finding),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,Hypoxemia (disorder),2020-03-03
+65015ff1-dc2c-4fe6-9ad7-6a16992b962b,Billy698 Ankunding277,67,F,721 Goldner Neck,Essex County,Massachusetts,Middleton,COVID-19,2020-03-03
+9a991e45-bb2e-4eae-b835-e97f28798b7c,Joleen561 Quitzon246,18,F,976 Bode Parade Apt 52,Franklin County,Massachusetts,Greenfield,COVID-19,2020-03-19
+9a991e45-bb2e-4eae-b835-e97f28798b7c,Joleen561 Quitzon246,18,F,976 Bode Parade Apt 52,Franklin County,Massachusetts,Greenfield,Suspected COVID-19,2020-03-19
+9a991e45-bb2e-4eae-b835-e97f28798b7c,Joleen561 Quitzon246,18,F,976 Bode Parade Apt 52,Franklin County,Massachusetts,Greenfield,Loss of taste (finding),2020-03-19
+9a991e45-bb2e-4eae-b835-e97f28798b7c,Joleen561 Quitzon246,18,F,976 Bode Parade Apt 52,Franklin County,Massachusetts,Greenfield,Cough (finding),2020-03-19
+9a991e45-bb2e-4eae-b835-e97f28798b7c,Joleen561 Quitzon246,18,F,976 Bode Parade Apt 52,Franklin County,Massachusetts,Greenfield,Fever (finding),2020-03-19
+e78ab1d9-4984-4bae-af85-c9dc73385bf5,Joey457 Gislason620,59,F,631 Reilly Key,Bristol County,Massachusetts,Freetown,COVID-19,2019-08-28
+e78ab1d9-4984-4bae-af85-c9dc73385bf5,Joey457 Gislason620,59,F,631 Reilly Key,Bristol County,Massachusetts,Freetown,Suspected COVID-19,2019-08-28
+e78ab1d9-4984-4bae-af85-c9dc73385bf5,Joey457 Gislason620,59,F,631 Reilly Key,Bristol County,Massachusetts,Freetown,Hypertension,2019-08-28
+e78ab1d9-4984-4bae-af85-c9dc73385bf5,Joey457 Gislason620,59,F,631 Reilly Key,Bristol County,Massachusetts,Freetown,Tubal pregnancy,2019-08-28
+e78ab1d9-4984-4bae-af85-c9dc73385bf5,Joey457 Gislason620,59,F,631 Reilly Key,Bristol County,Massachusetts,Freetown,Fatigue (finding),2019-08-28
+e78ab1d9-4984-4bae-af85-c9dc73385bf5,Joey457 Gislason620,59,F,631 Reilly Key,Bristol County,Massachusetts,Freetown,Body mass index 30+ - obesity (finding),2019-08-28
+e78ab1d9-4984-4bae-af85-c9dc73385bf5,Joey457 Gislason620,59,F,631 Reilly Key,Bristol County,Massachusetts,Freetown,Miscarriage in first trimester,2019-08-28
+e78ab1d9-4984-4bae-af85-c9dc73385bf5,Joey457 Gislason620,59,F,631 Reilly Key,Bristol County,Massachusetts,Freetown,Fever (finding),2019-08-28
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Suspected COVID-19,2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Suspected COVID-19,2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Cough (finding),2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Cough (finding),2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Osteoporosis (disorder),2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Osteoporosis (disorder),2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Body mass index 30+ - obesity (finding),2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Body mass index 30+ - obesity (finding),2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Stroke,2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Stroke,2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Fever (finding),2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,Fever (finding),2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,COVID-19,2020-04-16
+70f8e0be-bf40-463b-aba8-9775037335ad,Sam879 Satterfield305,65,F,958 O'Conner Gardens,Bristol County,Massachusetts,Swansea,COVID-19,2020-04-16
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Suspected COVID-19,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Suspected COVID-19,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Suspected COVID-19,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Rupture of appendix,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Rupture of appendix,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Rupture of appendix,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Cough (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Cough (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Cough (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Wheezing (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Wheezing (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Wheezing (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Appendicitis,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Appendicitis,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Appendicitis,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Body mass index 30+ - obesity (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Body mass index 30+ - obesity (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Body mass index 30+ - obesity (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Miscarriage in first trimester,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Miscarriage in first trimester,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Miscarriage in first trimester,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Impacted molars,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Impacted molars,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Impacted molars,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Localized  primary osteoarthritis of the hand,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Localized  primary osteoarthritis of the hand,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Localized  primary osteoarthritis of the hand,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Sputum finding (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Sputum finding (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Sputum finding (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Dyspnea (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Dyspnea (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Dyspnea (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Sore throat symptom (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Sore throat symptom (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Sore throat symptom (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Fever (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Fever (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Fever (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,History of appendectomy,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,History of appendectomy,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,History of appendectomy,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,COVID-19,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,COVID-19,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,COVID-19,2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Loss of taste (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Loss of taste (finding),2019-08-20
+1b7ad2ef-c487-46d3-a5a6-cfdd1a4c09b9,Dorla228 Effertz744,52,F,677 Rosenbaum Promenade Unit 63,Plymouth County,Massachusetts,Plympton,Loss of taste (finding),2019-08-20
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,COVID-19,2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,COVID-19,2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,COVID-19,2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Suspected COVID-19,2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Suspected COVID-19,2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Suspected COVID-19,2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Cough (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Cough (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Cough (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Fatigue (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Fatigue (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Fatigue (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Sore throat symptom (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Sore throat symptom (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Sore throat symptom (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Fever (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Fever (finding),2019-11-18
+c043bfae-3f70-41d9-94b9-00bbee596f07,Herschel574 Roob72,42,M,452 Nicolas Junction Suite 3,Plymouth County,Massachusetts,Brockton,Fever (finding),2019-11-18
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Loss of taste (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Loss of taste (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Suspected COVID-19,2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Suspected COVID-19,2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Chill (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Chill (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Cough (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Cough (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Fatigue (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Fatigue (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Body mass index 30+ - obesity (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Body mass index 30+ - obesity (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Osteoarthritis of hip,2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Osteoarthritis of hip,2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Fever (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,Fever (finding),2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,COVID-19,2019-12-16
+43c8e99b-dec6-4512-a5df-8a4e792cffd5,Chauncey770 Effertz744,72,M,564 Reichel Trail,Essex County,Massachusetts,Lawrence,COVID-19,2019-12-16
+5baf2e3b-45fc-4a8d-93cd-d1acaa7833b9,Tommy814 Barrows492,100,M,1057 Heathcote Green,Hampshire County,Massachusetts,Southampton,Chronic sinusitis (disorder),1981-08-08
+5baf2e3b-45fc-4a8d-93cd-d1acaa7833b9,Tommy814 Barrows492,100,M,1057 Heathcote Green,Hampshire County,Massachusetts,Southampton,Sprain of ankle,1981-08-08
+5baf2e3b-45fc-4a8d-93cd-d1acaa7833b9,Tommy814 Barrows492,100,M,1057 Heathcote Green,Hampshire County,Massachusetts,Southampton,Rupture of appendix,1981-08-08
+5baf2e3b-45fc-4a8d-93cd-d1acaa7833b9,Tommy814 Barrows492,100,M,1057 Heathcote Green,Hampshire County,Massachusetts,Southampton,Appendicitis,1981-08-08
+5baf2e3b-45fc-4a8d-93cd-d1acaa7833b9,Tommy814 Barrows492,100,M,1057 Heathcote Green,Hampshire County,Massachusetts,Southampton,Carcinoma in situ of prostate (disorder),1981-08-08
+5baf2e3b-45fc-4a8d-93cd-d1acaa7833b9,Tommy814 Barrows492,100,M,1057 Heathcote Green,Hampshire County,Massachusetts,Southampton,Neoplasm of prostate,1981-08-08
+5baf2e3b-45fc-4a8d-93cd-d1acaa7833b9,Tommy814 Barrows492,100,M,1057 Heathcote Green,Hampshire County,Massachusetts,Southampton,History of appendectomy,1981-08-08
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Suspected COVID-19,2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Cough (finding),2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Prediabetes,2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Body mass index 30+ - obesity (finding),2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Localized  primary osteoarthritis of the hand,2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Miscarriage in first trimester,2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Sore throat symptom (finding),2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Anemia (disorder),2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,Fever (finding),2020-01-16
+672abd5e-6c4f-4ffd-aed6-f20509c37cc9,Esther279 Rau926,46,F,319 Kertzmann Trafficway,Worcester County,Massachusetts,Lancaster,COVID-19,2020-01-16
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,COVID-19,2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Suspected COVID-19,2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Chronic intractable migraine without aura,2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Cough (finding),2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Drug overdose,2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Hypertension,2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Sprain of wrist,2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Chronic pain,2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Body mass index 30+ - obesity (finding),2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Impacted molars,2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Diarrhea symptom (finding),2019-12-26
+f85414c3-fdf9-4a2f-84af-f2a3f7cff105,Andre610 Eichmann909,60,M,673 Boyle Spur,Worcester County,Massachusetts,Gardner,Fever (finding),2019-12-26
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Suspected COVID-19,2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Suspected COVID-19,2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Suspected COVID-19,2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Cough (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Cough (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Cough (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Body mass index 30+ - obesity (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Body mass index 30+ - obesity (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Body mass index 30+ - obesity (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Sore throat symptom (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Sore throat symptom (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Sore throat symptom (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Fever (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Fever (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Fever (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Loss of taste (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Loss of taste (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,Loss of taste (finding),2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,COVID-19,2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,COVID-19,2020-04-16
+03593ab5-a82b-4125-bc81-079000e1d247,Johnathan55 Stroman228,42,M,1080 Koepp Landing,Middlesex County,Massachusetts,Maynard,COVID-19,2020-04-16
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Suspected COVID-19,2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Loss of taste (finding),2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Chronic sinusitis (disorder),2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Coronary Heart Disease,2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Joint pain (finding),2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Hypertension,2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Muscle pain (finding),2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Body mass index 30+ - obesity (finding),2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Sore throat symptom (finding),2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Atopic dermatitis,2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,Seasonal allergic rhinitis,2019-07-31
+62cc0fc7-6e80-409f-83bf-498ea396deef,Myles862 Gutkowski940,57,M,931 Gerlach View,Bristol County,Massachusetts,Norton,COVID-19,2019-07-31
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Cough (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,Sputum finding (finding),2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-07-08
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-09-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-12-09
+2279db0e-82ad-495c-9e01-5336d61aae9f,Caron739 Pfeffer420,1,F,833 Waelchi Mill Apt 20,Suffolk County,Massachusetts,Boston,COVID-19,2019-12-09
+ef7dde17-c484-47fb-b7da-f14f440769f4,Raylene798 Bauch723,69,F,595 Bartoletti Corner,Middlesex County,Massachusetts,Westford,COVID-19,2020-04-24
+ef7dde17-c484-47fb-b7da-f14f440769f4,Raylene798 Bauch723,69,F,595 Bartoletti Corner,Middlesex County,Massachusetts,Westford,Suspected COVID-19,2020-04-24
+ef7dde17-c484-47fb-b7da-f14f440769f4,Raylene798 Bauch723,69,F,595 Bartoletti Corner,Middlesex County,Massachusetts,Westford,Cough (finding),2020-04-24
+ef7dde17-c484-47fb-b7da-f14f440769f4,Raylene798 Bauch723,69,F,595 Bartoletti Corner,Middlesex County,Massachusetts,Westford,Body mass index 30+ - obesity (finding),2020-04-24
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Body mass index 30+ - obesity (finding),2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Body mass index 30+ - obesity (finding),2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Body mass index 30+ - obesity (finding),2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Miscarriage in first trimester,2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Miscarriage in first trimester,2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Miscarriage in first trimester,2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Body mass index 40+ - severely obese (finding),2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Body mass index 40+ - severely obese (finding),2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Body mass index 40+ - severely obese (finding),2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Viral sinusitis (disorder),2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Viral sinusitis (disorder),2020-01-18
+9dead8ee-3e70-4326-8867-3a3b81ca5e07,Lyn897 Hickle134,42,F,146 Borer Avenue,Worcester County,Massachusetts,Shrewsbury,Viral sinusitis (disorder),2020-01-18
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,COVID-19,2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Suspected COVID-19,2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Loss of taste (finding),2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Hypertension,2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Prediabetes,2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Pneumonia (disorder),2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Passive conjunctival congestion (finding),2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Anemia (disorder),2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Respiratory distress (finding),2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Fever (finding),2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Hypoxemia (disorder),2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Headache (finding),2019-10-24
+f46b6a21-ecac-45ba-a26c-62359cbf26c8,Anthony633 Terry864,54,M,989 Spinka Alley Suite 66,Essex County,Massachusetts,Methuen,Acute pulmonary embolism (disorder),2019-10-24
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,COVID-19,2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Suspected COVID-19,2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Loss of taste (finding),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Diabetes,2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Atrial Fibrillation,2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Cough (finding),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Hypertension,2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Fatigue (finding),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Diabetic renal disease (disorder),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Acute viral pharyngitis (disorder),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Stroke,2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Metabolic syndrome X (disorder),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Anemia (disorder),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Hypertriglyceridemia (disorder),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Facial laceration,2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Fever (finding),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Headache (finding),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Chronic kidney disease stage 1 (disorder),2020-03-30
+bdcdccd6-f333-40e3-b5d6-7657165e5063,Elisha578 Gerlach374,80,F,724 Tillman Road,Suffolk County,Massachusetts,Boston,Alzheimer's disease (disorder),2020-03-30
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Suspected COVID-19,2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Chronic sinusitis (disorder),2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Contact dermatitis,2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Sprain of ankle,2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Hypertension,2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Sputum finding (finding),2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Sore throat symptom (finding),2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Fever (finding),2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,Viral sinusitis (disorder),2019-09-26
+66deabbc-a838-45e3-b0b1-9be191c8ab85,Morgan564 Spinka232,28,M,827 Dietrich Quay,Bristol County,Massachusetts,North Attleborough,COVID-19,2019-09-26
+2e89c5fa-9150-4636-9466-c5a5417cb274,Bernita55 White193,56,F,209 Upton Estate,Bristol County,Massachusetts,Taunton,Epilepsy,1981-06-09
+2e89c5fa-9150-4636-9466-c5a5417cb274,Bernita55 White193,56,F,209 Upton Estate,Bristol County,Massachusetts,Taunton,Seizure disorder,1981-06-09
+2e89c5fa-9150-4636-9466-c5a5417cb274,Bernita55 White193,56,F,209 Upton Estate,Bristol County,Massachusetts,Taunton,History of single seizure (situation),1981-06-09
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2019-08-18
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2019-09-22
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-08-18
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-09-22
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Suspected COVID-19,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2019-08-18
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2019-09-22
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Chill (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2019-08-18
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2019-09-22
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Otitis media,2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2019-08-18
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2019-09-22
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fatigue (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2019-08-18
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2019-09-22
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2019-11-24
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-01-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-26
+990c59eb-4ecc-4f83-820c-cc28176d0e40,Claude750 Russel238,1,M,1093 Jast Trail Suite 33,Bristol County,Massachusetts,Taunton,Fever (finding),2020-04-26
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Suspected COVID-19,2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Cough (finding),2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Hypertension,2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Fatigue (finding),2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Pneumonia (disorder),2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Sputum finding (finding),2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Vomiting symptom (finding),2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Respiratory distress (finding),2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Hypoxemia (disorder),2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,Nausea (finding),2019-09-19
+3cdad66d-e301-4862-93ce-28209d616d86,Mindy103 Hintz995,26,F,1025 Medhurst Rapid,Bristol County,Massachusetts,Fall River,COVID-19,2019-09-19
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Suspected COVID-19,2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Suspected COVID-19,2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Chill (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Chill (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Prediabetes,2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Prediabetes,2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Wheezing (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Wheezing (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Joint pain (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Joint pain (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Hypertension,2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Hypertension,2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Acute respiratory failure (disorder),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Acute respiratory failure (disorder),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Nasal congestion (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Nasal congestion (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Muscle pain (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Muscle pain (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Body mass index 30+ - obesity (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Body mass index 30+ - obesity (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Pneumonia (disorder),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Pneumonia (disorder),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Passive conjunctival congestion (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Passive conjunctival congestion (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Sputum finding (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Sputum finding (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Dyspnea (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Dyspnea (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Anemia (disorder),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Anemia (disorder),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Respiratory distress (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Respiratory distress (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Fever (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Fever (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Headache (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Headache (finding),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Hypoxemia (disorder),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,Hypoxemia (disorder),2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,COVID-19,2019-11-28
+7aa14972-156e-42f5-8388-4956dd5bb6a8,Miquel905 Bergstrom287,51,M,907 Waelchi Meadow,Barnstable County,Massachusetts,Yarmouth,COVID-19,2019-11-28
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Suspected COVID-19,2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Loss of taste (finding),2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Cough (finding),2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Joint pain (finding),2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Muscle pain (finding),2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Acute bacterial sinusitis (disorder),2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Sputum finding (finding),2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Fever (finding),2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Cardiac Arrest,2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,Acute bronchitis (disorder),2019-06-02
+f0bdd6af-dd7f-4b17-bbf9-3ff85f5bcc2f,Homer307 Miller503,35,M,218 Kirlin Ramp,Middlesex County,Massachusetts,Pepperell,History of cardiac arrest (situation),2019-06-02
+ed4aea9a-76b0-4552-8775-dfbd5631bdea,Valentin929 Bogisich202,15,M,763 Kautzer Well Apt 18,Middlesex County,Massachusetts,Watertown,COVID-19,2019-06-14
