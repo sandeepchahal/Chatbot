@@ -20,7 +20,7 @@ content_directory = os.path.join(current_dir, file_directory_name)
 
 embedding_file_name = "embeddings.csv"
 csv_inputput_file_name = "patients.csv"
-
+timeout_response = "Sorry, your requests per minute limit is over. Please try again after sometime."
 not_applicable_response = "Sorry, I can only answer the questions that are relevant to the medical or health care"
 
 default_message = {
@@ -28,33 +28,56 @@ default_message = {
     "content": (
         "You are an assistant in a Apollo Hospital. "
         "Answer the questions precisely by following below rules: \n"
-        "1. Evaluate the question, and if it doesn't pertain to subjects such as medicine, viruses, health, diseases, doctors, patients information or hospitals, say'NAAA'. \n"
+        "1. Evaluate the question, and if it doesn't pertain to subjects such as medical study, medicine, pharmacy, viruses, health, diseases,treatments, doctors, patients information and hospitals, say'NAAA'. \n"
         "2. Only answer to valid questions. \n"
         "3. Do not justify your answers. \n"
         "4. Respond appropriately to greetings. \n"+
-        "5. Response appropriately to user introductions\n"
+        "5. Response appropriately to user introductions. \n"
     )
 }
 
 default_context_message = {
     "role": "system",
     "content": (  
-        "6. The 'Context' is having the patients information such as name, address, illness, date,etc. You should answer correctly when asked about patients information"
-        "7. Answer questions only based on the provided 'Context'. \n"
-        "8. If the given 'Context' does not provide any information about question, only say 'NF'. \n"
-        "9. Never provide information that is not mentioned in the given 'Context'. \n"
+        "6. The 'Context' is having the patients information such as name, address, illness, date,etc. You should answer correctly when asked about patient's information. \n"
+        "7. Always show the patient's information along with column names in a 'tabular' format only. Seperate columns with Pipe `|` Delimeter and show the table border. \n"
+        "8. Observe the question and if patient's information or record is not asked, do not provide it. \n"
+        "9. Answer questions only based on the provided 'Context'. \n"
+        "10. If the given 'Context' does not provide any information about question, only say 'NF'. \n"
+        "11. Never provide information that is not mentioned in the given 'Context'. \n"
     )
 }
 
+default_user_message =[
+    {
+    "role":"user",
+    "content": "What is cardiovascular disease"
+    },
+    {
+    "role":"system",
+    "content": "Cardiovascular disease (CVD) is a group of conditions affecting the heart or blood vessels, including coronary artery disease, heart failure, stroke, and others"
+    },
+    {
+    "role":"user",
+    "content": "who is sharukh khan"
+    },
+    {
+    "role":"system",
+    "content": f"{not_applicable_response}"
+    }
+]
 embedding=MyEmbedding()
 context_message,api_message_context, user_history = [],[],[]
 
 context_message.append(default_message)
 context_message.append(default_context_message)
+context_message.extend(default_user_message)
 api_message_context.append(default_message)
+api_message_context.extend(default_user_message)
     
-OPEN_API_KEY = os.environ.get("OPENAI_API_KEY")
-client = OpenAI(api_key=OPEN_API_KEY)
+client = OpenAI(
+    api_key= os.environ.get("OPENAI_API_KEY")
+)
 
 def main():
     global context_df, columns_list
@@ -97,7 +120,7 @@ def search_response_from_embedding(user_input):
    
     question_embedding = client.embeddings.create(input=user_input, model='text-embedding-ada-002').data[0].embedding
 
-    nn_model = NearestNeighbors(n_neighbors=5, metric='cosine')
+    nn_model = NearestNeighbors(n_neighbors=10, metric='cosine')
     nn_model.fit(embeddings_array)
 
     # Find the indices of the nearest neighbors
@@ -109,9 +132,7 @@ def search_response_from_embedding(user_input):
     # Process the relevant information, e.g., extract the text or other attributes
     return process_similar_responses(similar_responses_df, 2000)
     
-def process_similar_responses(similar_responses_df, max_tokens):
-    print(similar_responses_df['text'].tolist())
-
+def process_similar_responses(similar_responses_df, max_tokens):   
     responses = similar_responses_df['text'].tolist()
     
     # Initialize variables
@@ -164,7 +185,9 @@ def document_answer(question, history):
         )
         return response.choices[0].message.content
     except Exception as e:
-        #print('Error In Document Response \n',e)
+        print('Error In Document Response \n',e)
+        if 'rate_limit_exceeded' in str(e):
+            return timeout_response
         return "error" 
 
 def reduce_history_if_needed(history_context,max_tokens = 1500):
@@ -211,7 +234,7 @@ def reduce_context_size_if_needed(context, max_tokens=1500):
     return context
 
 def find_answer_from_history(history,question):
-    similarity_threshold= 0.6
+    similarity_threshold= 0.8
    # Extract all user messages from the history
     user_messages = [message["content"] for message in history if message.get("role") == "user" and message.get("content") is not None]
 
@@ -268,6 +291,8 @@ def history_answer(question, history):
         return response.choices[0].message.content
     except Exception as e:
         print('Error In History Response \n',e)
+        if 'rate_limit_exceeded' in str(e):
+            return timeout_response
         return "error" 
 
 def add_conversation(question,answer,history):
@@ -284,6 +309,9 @@ def answer_question(question, history):
         print('Cache: -',history_ans)
         if(history_ans == "error"):
             return "An error has occurred while processing the request"  
+        if(history_ans == "NAAA"):
+            return not_applicable_response
+        
         if(history_ans !="no-history"):
             return history_ans
         
@@ -329,6 +357,8 @@ def answer_question(question, history):
         return answer
     except Exception as e:
         print(e)
+        if 'rate_limit_exceeded' in str(e):
+            return timeout_response
         return "An error has occurred while processing the request" 
 
 if __name__ == "__main__":
