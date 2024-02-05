@@ -72,6 +72,7 @@ context_message,api_message_context, user_history = [],[],[]
 context_message.append(default_message)
 context_message.append(default_context_message)
 context_message.extend(default_user_message)
+
 api_message_context.append(default_message)
 api_message_context.extend(default_user_message)
     
@@ -130,7 +131,7 @@ def search_response_from_embedding(user_input):
     similar_responses_df =  context_df.iloc[indices[0]]
 
     # Process the relevant information, e.g., extract the text or other attributes
-    return process_similar_responses(similar_responses_df, 2000)
+    return process_similar_responses(similar_responses_df, 1500)
     
 def process_similar_responses(similar_responses_df, max_tokens):   
     responses = similar_responses_df['text'].tolist()
@@ -257,6 +258,7 @@ def find_answer_from_history(history,question):
 
 def history_answer(question, history):
     try:
+        global columns_list
         # Create a chat comxpletion using the question and context
         if(len(history)==0):
             return 'no-history'
@@ -267,18 +269,16 @@ def history_answer(question, history):
         if(history_answer =="notfound"):
             return "no-history"
         
-        user_message = {"role": "user", "content": f"{question}"}
-        answer_message = {"role": "assistant", "content": f"{history_answer}"}
-        
         reduce_history_if_needed(history)
-        conversion_context= api_message_context.copy() # always add the context along with conversion history context that we save in the file
-        conversion_context.extend(history)
-    
-        conversion_context.append(user_message)
-        conversion_context.append(answer_message)
-        
-        conversion_context.append({"role":"user", "content": f"{question}"})
+        conversion_context= context_message.copy() # always add the context along with conversion history context that we save in the file
+        conversion_context.extend(history) # adding history to the context
 
+        if(len(columns_list)>0):
+            input_data = {'columns': columns_list, 'data': history_answer}
+            conversion_context.append({"role":"user", "content": f"Context: {input_data}\n\n---\n\nQuestion: {question}"})
+        else:
+            conversion_context.append({"role":"user", "content": f"Context: {history_answer}\n\n---\n\nQuestion: {question}"})
+    
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=conversion_context,
@@ -306,7 +306,7 @@ def answer_question(question, history):
     try:
         history_ans= history_answer(history=user_history, question=question)
         
-        print('Cache: -',history_ans)
+        print('History: -',history_ans)
         if(history_ans == "error"):
             return "An error has occurred while processing the request"  
         if(history_ans == "NAAA"):
